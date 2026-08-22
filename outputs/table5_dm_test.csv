@@ -1,0 +1,4 @@
+Horizon,Model1,Model2,DM_stat,p_value,Result
+5,LMD-ARIMA,LMD-SD-ARIMA-XGBoost,-1.003,0.3159,No significant difference
+10,LMD-ARIMA,LMD-SD-ARIMA-XGBoost,-1.0039,0.3154,No significant difference
+15,LMD-ARIMA,LMD-SD-ARIMA-XGBoost,-1.0085,0.3132,No significant difference
